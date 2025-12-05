@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="MasterSuite_TC14_15_16_24_Suite">
+  <suite-files>
+        <suite-file path="RegisterBeforeCheckoutTest.xml"/>
+        <suite-file path="RegisterAfterCheckoutTest.xml"/>
+        <suite-file path="LoginBeforeCheckout.xml"/>
+        <suite-file path="Download_Invoice_after_purchase_order.xml"/>
+    </suite-files>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Download_Invoice_after_purchase_order_Suite">
+   <test name="Download_Invoice_after_purchase_order">
+        <classes>
+            <class name="tests.Download_Invoice_after_purchase_order"/>
+        </classes>
+    </test>
+</suite>

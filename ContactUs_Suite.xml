@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ContactUS_Suite" parallel="false">
+
+    <!-- Happy Scenarios Test -->
+    <test name="ContactUs_HappyScenarios">
+        <classes>
+            <class name="tests.ContactUs_happyScenario"/>
+        </classes>
+    </test>
+
+    <!-- Negative Scenarios Test -->
+    <test name="ContactUs_NegativeScenarios">
+        <classes>
+            <class name="tests.ContactUs_NegativeScenario"/>
+        </classes>
+    </test>
+
+</suite>

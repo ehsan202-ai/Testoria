@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Newsletter_Suite" parallel="false">
+
+    <!-- Happy Scenario -->
+    <test name="Newsletter_Happy">
+        <classes>
+            <class name="tests.Newsletter_HappyScenario"/>
+        </classes>
+    </test>
+
+    <!-- Negative Scenario -->
+    <test name="Newsletter_Negative">
+        <classes>
+            <class name="tests.Newsletter_NegativeScenario"/>
+        </classes>
+    </test>
+
+</suite>
